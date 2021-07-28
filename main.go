@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(morestrings.ReverseRunes("!dlrow olleh"))
+	fmt.Println(morestrings.ReverseRunes("!ibibah olleh"))
 }
