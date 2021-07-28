@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/aystzh/go-hello/hello/morestrings"
 )
 
 func main() {
-	fmt.Println("hello babes!")
+	fmt.Println(morestrings.ReverseRunes("!dlrow olleh"))
 }
